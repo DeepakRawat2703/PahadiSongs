@@ -1,0 +1,44 @@
+nav ul li{
+    padding: 2px;
+}
+.brand{
+    font-size: 23px;
+    margin-right: 4px;
+}
+.songList h1{
+    font-size: 19px
+}
+.container{
+    padding: 35px;
+    margin: 23px;
+}
+.songItemContainer{
+    margin: 20px -34p;
+}
+.songItem{
+    margin: 6px -31px;
+    font-size: 0.8rem;
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+}
+.bottom{
+    padding: 12px 0;
+    margin: 0 -6px;
+}
+#myProgressBar{
+    margin: 43px 0;
+}
+.icons{
+    margin: 5px 0;
+    padding: 7px 0;
+}
+#masterSongName{
+    padding: 0 11px;
+    display: flex;
+    margin: 0 13px;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    margin: 0 -6px;
+}
